@@ -1,2 +1,2 @@
-# Planets
- This IS mY fIrsT RepoSiTOry
+# 1st
+Author Suraj Nandan
